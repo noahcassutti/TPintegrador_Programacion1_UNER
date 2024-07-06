@@ -1,0 +1,74 @@
+[
+    {
+        "id_prestamo": 1,
+        "id_socio": 1,
+        "id_libro": 1,
+        "fecha_prestamo": "28-07-2024",
+        "costo": 50.0,
+        "fecha_devolucion": "24-09-2024",
+        "estado": "Devuelto"
+    },
+    {
+        "id_prestamo": 2,
+        "id_socio": 3,
+        "id_libro": 1,
+        "fecha_prestamo": "23-06-2006",
+        "costo": 500.0,
+        "fecha_devolucion": "04-06-2024",
+        "estado": "Devuelto"
+    },
+    {
+        "id_prestamo": 3,
+        "id_socio": 1,
+        "id_libro": 1,
+        "fecha_prestamo": "06-01-2001",
+        "costo": 1500.0,
+        "fecha_devolucion": "07-01-2005",
+        "estado": "Devuelto"
+    },
+    {
+        "id_prestamo": 4,
+        "id_socio": 1,
+        "id_libro": 3,
+        "fecha_prestamo": "06-01-2007",
+        "costo": 4500.0,
+        "fecha_devolucion": "06-01-2009",
+        "estado": "Devuelto"
+    },
+    {
+        "id_prestamo": 5,
+        "id_socio": 13,
+        "id_libro": 3,
+        "fecha_prestamo": "06-01-2006",
+        "costo": 2500.0,
+        "fecha_devolucion": "06-01-2025",
+        "estado": "Devuelto"
+    },
+    {
+        "id_prestamo": 6,
+        "id_socio": 14,
+        "id_libro": 1,
+        "fecha_prestamo": "29-06-2024",
+        "costo": 0.0,
+        "fecha_devolucion": "30-06-2024",
+        "estado": "Devuelto"
+    },
+    {
+        "id_prestamo": 7,
+        "id_socio": 1,
+        "id_libro": 1,
+        "fecha_prestamo": "06-01-2001",
+        "costo": 0.0,
+        "fecha_devolucion": "06-01-2008",
+        "estado": "Devuelto"
+    },
+    {
+        "id_prestamo": 8,
+        "id_socio": 1,
+        "id_libro": 2,
+        "fecha_prestamo": "06-01-2008",
+        "costo": 2000.0,
+        "fecha_devolucion": "06-01-2020",
+        "estado": "Devuelto"
+    }
+]

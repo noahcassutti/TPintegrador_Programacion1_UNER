@@ -1,0 +1,56 @@
+[
+    {
+        "id_libro": 1,
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "editorial": "Colonia",
+        "año_publicacion": 1605,
+        "genero": "Aventura",
+        "cantidad_disponible": 5
+    },
+    {
+        "id_libro": 2,
+        "titulo": "Canciones para Jose",
+        "autor": "Javier correa",
+        "editorial": "mafalda",
+        "año_publicacion": 1999,
+        "genero": "aventura",
+        "cantidad_disponible": 10
+    },
+    {
+        "id_libro": 3,
+        "titulo": "La divina comedia",
+        "autor": "Dante Alighieri",
+        "editorial": "colmena",
+        "año_publicacion": 1472,
+        "genero": "fantasia",
+        "cantidad_disponible": 2
+    },
+    {
+        "id_libro": 4,
+        "titulo": "La isla del tesoro",
+        "autor": "Robert Louis Stevenson",
+        "editorial": "Aguilera",
+        "año_publicacion": 1883,
+        "genero": "fantasia",
+        "cantidad_disponible": 12
+    },
+    {
+        "id_libro": 5,
+        "titulo": "Lo que el viento se llevo",
+        "autor": "Margaret Mitchell",
+        "editorial": "cordobita",
+        "año_publicacion": 1936,
+        "genero": "ficcion",
+        "cantidad_disponible": 2
+    },
+    {
+        "id_libro": 6,
+        "titulo": "la rayuela",
+        "autor": "Julio Cortazar",
+        "editorial": "cordobita",
+        "año_publicacion": 1963,
+        "genero": "ficcion",
+        "cantidad_disponible": 6
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "id_socio": 1,
+        "nombre": "jose",
+        "apellido": "peralta",
+        "fecha_nacimiento": "06-01-2001",
+        "direccion": "cordobita 2000",
+        "correo_electronico": "jperal",
+        "telefono": "31234123"
+    },
+    {
+        "id_socio": 2,
+        "nombre": "santiago",
+        "apellido": "bertorello",
+        "fecha_nacimiento": "28-07-1994",
+        "direccion": "buenos aires 2453",
+        "correo_electronico": "santib@gmail.com",
+        "telefono": "235741"
+    },
+    {
+        "id_socio": 4,
+        "nombre": "maria",
+        "apellido": "colado",
+        "fecha_nacimiento": "10-09-1990",
+        "direccion": "japon 6874",
+        "correo_electronico": "mabi@gmail.com",
+        "telefono": "1548323"
+    },
+    {
+        "id_socio": 5,
+        "nombre": "Juan",
+        "apellido": "Cassutti",
+        "fecha_nacimiento": "07-07-1999",
+        "direccion": "AKSDKK",
+        "correo_electronico": "ASDKASKD",
+        "telefono": "AKSDKK"
+    },
+    {
+        "id_socio": 6,
+        "nombre": "Tomas",
+        "apellido": "Gomez",
+        "fecha_nacimiento": "10-09-2002",
+        "direccion": "pasaje colombia 123",
+        "correo_electronico": "tomasg@gmail.com",
+        "telefono": "aksdk"
+    },
+    {
+        "id_socio": 7,
+        "nombre": "Marcos",
+        "apellido": "Gutierrez",
+        "fecha_nacimiento": "08-08-2012",
+        "direccion": "kajakj",
+        "correo_electronico": "marcos@gmail.com",
+        "telefono": "5674676386"
+    },
+    {
+        "id_socio": 8,
+        "nombre": "Esteban",
+        "apellido": "Colado",
+        "fecha_nacimiento": "08-10-1995",
+        "direccion": "Avenida san juan 123",
+        "correo_electronico": "estebancol@gmail.com",
+        "telefono": "873373132"
+    },
+    {
+        "id_socio": 9,
+        "nombre": "Joaquin",
+        "apellido": "Porta",
+        "fecha_nacimiento": "08-09-1990",
+        "direccion": "la rioja 1344",
+        "correo_electronico": "joaquin@gmail.com",
+        "telefono": "378365708"
+    },
+    {
+        "id_socio": 10,
+        "nombre": "Nicolas",
+        "apellido": "Bertorello",
+        "fecha_nacimiento": "08-03-2005",
+        "direccion": "san juan 1234",
+        "correo_electronico": "nicolasberto@gmail.com",
+        "telefono": "768768967"
+    },
+    {
+        "id_socio": 11,
+        "nombre": "juan",
+        "apellido": "peralta",
+        "fecha_nacimiento": "06-01-2001",
+        "direccion": "san martin 1245",
+        "correo_electronico": "asdlasl",
+        "telefono": "123123123"
+    },
+    {
+        "id_socio": 13,
+        "nombre": "samuel",
+        "apellido": "correa",
+        "fecha_nacimiento": "06-01-2011",
+        "direccion": "entre rios 214",
+        "correo_electronico": "samuc12@gmail.com",
+        "telefono": "123123"
+    },
+    {
+        "id_socio": 14,
+        "nombre": "Lionel",
+        "apellido": "Messi",
+        "fecha_nacimiento": "24-06-1987",
+        "direccion": "Miami 123",
+        "correo_electronico": "LioCampeonDelMundo@gmail.com",
+        "telefono": "352325544"
+    },
+    {
+        "id_socio": 15,
+        "nombre": "Elon",
+        "apellido": "Musk",
+        "fecha_nacimiento": "28-06-1971",
+        "direccion": "sudafrica 123",
+        "correo_electronico": "elon@tesla.com",
+        "telefono": "3429234942"
+    }
+]
